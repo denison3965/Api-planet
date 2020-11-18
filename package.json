@@ -1,0 +1,31 @@
+{
+  "name": "star-wars-api-planeta",
+  "version": "1.0.0",
+  "description": "API criada para gravar planetas do sistema solar do universo Star Wars",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "test": "SET NODE_ENV=testing&& node node_modules/mocha/bin/mocha --recursive --timeout 15000"
+  },
+  "keywords": [
+    "starwars",
+    "apistarwars",
+    "swapi"
+  ],
+  "author": "Rafael Medeiros",
+  "license": "ISC",
+  "repository": "RAlucard/star-wars-api-planeta",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-load": "^1.1.16",
+    "mongoose": "^5.7.4"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.1",
+    "supertest": "^4.0.2"
+  }
+}
