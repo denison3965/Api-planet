@@ -80,6 +80,15 @@ const planets = [
         "temp": "As temperaturas variam de -184 graus Celsius durante à noite a 214 graus Celsius durante o dia.",
         "temp": "214ºC",
         "galaxy": "Via Láctea"
+    },
+    {
+        "id": 10,
+        "nome": "TrES-4",
+        "img": "https://github.com/denison3965/Api-planet/blob/main/Img-planet/Lua.jpg",
+        "description": "O TrES-4 é o maior exoplaneta (fora do sistema solar) conhecido até os dias atuais. Exoplaneta são corpos celestes que não orbitam em torno do sol e nem fazem parte do nosso sistema.",
+        "temp": "A sua atmosfera é extremamente quente sendo sua temperatura aproximada a 1,3 mil °C.",
+        "temp": "1.327º",
+        "galaxy": "Via Láctea"
     }
 ]
 
