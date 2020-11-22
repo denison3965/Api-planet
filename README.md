@@ -31,14 +31,14 @@ with this when making a GET request via postman or insomnia with the following a
 
 [<br>
   {<br>
-    "id": 1,<br>
-    "nome": "Mercúrio",<br>
-    "img": "https://denison3965.github.io/Img-planet/Mercúrio.jpg",<br>
-    "description": "Mercúrio é o menor dos planetas, e o que está mais próximo do sol. Ele gira lentamente, cerca de duas vezes para cada três órbitas em volta do astro rei. Mercúrio não tem luas e anéis, e sua atmosfera é tão fina que os cientistas a classificam como uma exosfera.",
-    "infotemp": "A temperatura na sua superfície pode chegar, durante o período diurno, a 550ºC.",<br>
-    "temp": "550ºC",<br>
-    "galaxy": "Via Láctea",<br>
-    "gravity": "3,7 m/s²"<br>
+    "**id**": 1,<br>
+    "**nome**": "Mercúrio",<br>
+    "**img**": "https://denison3965.github.io/Img-planet/Mercúrio.jpg",<br>
+    "**description**": "Mercúrio é o menor dos planetas, e o que está mais próximo do sol. Ele gira lentamente, cerca de duas vezes para cada três órbitas em volta do astro rei. Mercúrio não tem luas e anéis, e sua atmosfera é tão fina que os cientistas a classificam como uma exosfera.",
+    "**infotemp**": "A temperatura na sua superfície pode chegar, durante o período diurno, a 550ºC.",<br>
+    "**temp**": "550ºC",<br>
+    "**galaxy**": "Via Láctea",<br>
+    "**gravity**": "3,7 m/s²"<br>
   },<br>
   
   ...
