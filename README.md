@@ -1,4 +1,4 @@
-# 🪐  Api-planet 🪐 
+#  Api-planet 
 
 
 ## About this project
