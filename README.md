@@ -44,7 +44,7 @@ with this when making a GET request via postman or insomnia with the following a
   ...
   
   
-  ### Devs 🪐
+  ###  Devs  🪐
 
   - Ana Lucia Ferreira Gome [GitHub](https://github.com/Ana204)
   - Denison de Almeida Portela [GitHub](https://github.com/denison3965)
